@@ -1,0 +1,1 @@
+Comandos en Mysql para operaciones entre tablas en la bases de datos confival
